@@ -17,6 +17,6 @@
 	}
 	}
 	
-	echo implode('|', $results); // Et on affiche les résultats séparés par une barre verticale |
+	echo implode('|', $results); // Require c9.io php servs
 	
 	?>
